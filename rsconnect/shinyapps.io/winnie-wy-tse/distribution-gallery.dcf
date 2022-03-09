@@ -1,0 +1,13 @@
+name: distribution-gallery
+title:
+username:
+account: winnie-wy-tse
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5803608
+bundleId: 5659706
+url: https://winnie-wy-tse.shinyapps.io/distribution-gallery/
+when: 1646806035.86069
+lastSyncTime: 1646806035.86074
+asMultiple: FALSE
+asStatic: FALSE
